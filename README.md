@@ -39,7 +39,7 @@ A Telegram Bot using Node.js in typescript ✨
   Or using [npm](https://www.npmjs.com/) package manager:
 
   ```bash
-    npm install
+  npm install
   ```
 
 - Rename the `.env.example` file to `.env` and fill it with access token.
