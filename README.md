@@ -4,6 +4,8 @@ A Telegram Bot using Node.js in typescript ✨
 
 ## 📡 Quick Start
 
+> If you are new to Telegram bots, read the official [Introduction for Developers](https://core.telegram.org/bots) written by the Telegram team.
+>
 > **_Warning_**: This BOT is not yet ready for production. It is still in development. 🚧
 >
 > ### Requirements:
